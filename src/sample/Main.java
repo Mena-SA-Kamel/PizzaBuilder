@@ -1,3 +1,8 @@
+// Pizza Builder App
+// Mena S.A. Kamel, MESc Candidate, ECE, Western University, Canada
+// mkamel9@uwo.ca
+
+
 package sample;
 
 
